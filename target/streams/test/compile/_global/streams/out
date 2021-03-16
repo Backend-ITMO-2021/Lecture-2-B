@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/vladislavkomsomolenko/Lecture-2-B/src/test/scala/MarkupTest.scala:30:43: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : ru.ifmo.backend_2021.markup.Paragraph[0m
+[0m[[0m[31merror[0m] [0m[0m required: ru.ifmo.backend_2021.markup.MarkdownInterface[0m
+[0m[[0m[31merror[0m] [0m[0m    val tree = new Paragraph(util.List.of(new Paragraph(util.List.of(new Text("rlg")))))[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

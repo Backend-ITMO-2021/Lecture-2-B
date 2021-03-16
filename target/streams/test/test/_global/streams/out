@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MarkupTest, org.scalatest.tools.Framework$$anon$1@7b2f4310, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMarkupTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- example test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test depth 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test depth 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test depth 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test depth 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test depth 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test depth 6[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test depth 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 613 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 8, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarkupTest[0m
