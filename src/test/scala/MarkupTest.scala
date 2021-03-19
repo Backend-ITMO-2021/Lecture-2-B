@@ -1,5 +1,5 @@
 import org.scalatest.funsuite.AnyFunSuite
-import ru.ifmo.backend_2021.markup._
+import main.java.ru.ifmo.backend_2021.markup._
 
 import java.util
 import java.util.List
