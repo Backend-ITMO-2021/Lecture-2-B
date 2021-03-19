@@ -1,10 +1,10 @@
 package ru.ifmo.backend_2021.markup;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class Emphasis extends MarkupGroup{
 
-    public Emphasis(ArrayList<MarkupElement> parts) {
+    public Emphasis(List<MarkupElement> parts) {
         super("*", parts);
     }
 }

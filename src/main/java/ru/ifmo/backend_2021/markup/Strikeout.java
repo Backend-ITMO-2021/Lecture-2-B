@@ -1,10 +1,10 @@
 package ru.ifmo.backend_2021.markup;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class Strikeout extends MarkupGroup{
 
-    public Strikeout(ArrayList<MarkupElement> parts) {
+    public Strikeout(List<MarkupElement> parts) {
         super("~", parts);
     }
 

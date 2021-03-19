@@ -1,10 +1,10 @@
 package ru.ifmo.backend_2021.markup;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class Strong extends MarkupGroup{
 
-    public Strong(ArrayList<MarkupElement> parts) {
+    public Strong(List<MarkupElement> parts) {
         super("__", parts);
     }
 }

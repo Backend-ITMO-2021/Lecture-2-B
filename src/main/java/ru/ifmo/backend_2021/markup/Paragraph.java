@@ -1,10 +1,10 @@
 package ru.ifmo.backend_2021.markup;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class Paragraph extends MarkupGroup{
 
-    public Paragraph(ArrayList<MarkupElement> parts) {
+    public Paragraph(List<MarkupElement> parts) {
         super("", parts);
     }
 }

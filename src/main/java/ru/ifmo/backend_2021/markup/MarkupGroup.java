@@ -1,12 +1,12 @@
 package ru.ifmo.backend_2021.markup;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public abstract class MarkupGroup extends MarkupElement{
      private String specialSymbol;
-     private ArrayList<MarkupElement> parts;
+     private List<MarkupElement> parts;
 
-     public MarkupGroup(String specialSymbol, ArrayList<MarkupElement> parts){
+     public MarkupGroup(String specialSymbol, List<MarkupElement> parts){
          this.specialSymbol = specialSymbol;
          this.parts = parts;
      }
