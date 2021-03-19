@@ -8,6 +8,8 @@ public class Text extends Paragraph{
         super(List.of());
         this.text = new StringBuilder(str);
     }
+    
+    @Override
     public StringBuilder toMarkdown(StringBuilder strB) {
         strB.append(this.text);
         return strB;
