@@ -1,4 +1,4 @@
-package main.java.ru.ifmo.backend_2021.markup;
+package ru.ifmo.backend_2021.markup;
 
 public class Text implements TextElemet {
     private String text;
